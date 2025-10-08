@@ -1,4 +1,6 @@
 //area and perimeter of rectangle
+//area=l*b
+//perimeter=2*(l+b)
 #include<iostream>
 using namespace std;
 class Rectangle{

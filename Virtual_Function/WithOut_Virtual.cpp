@@ -18,5 +18,5 @@ int main(){
     Dog d;//object for dervied class
     a=&d; 
     d.shout(); //access the derived class function
-    a->shout(); //uses -> symbol when we have pointer
+    a->shout(); //uses -> symbol when we have pointer //other way (*a).shout()
 }
